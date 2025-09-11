@@ -14,10 +14,6 @@ class PRACTICERUN_API UTP_WeaponComponent : public USkeletalMeshComponent
 	GENERATED_BODY()
 
 public:
-	/** Projectile class to spawn */
-	UPROPERTY(EditDefaultsOnly, Category=Projectile)
-	TSubclassOf<class APracticeRunProjectile> ProjectileClass;
-
 	/** Sound to play each time we fire */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
 	USoundBase* FireSound;
@@ -29,6 +25,9 @@ public:
 	/** Gun muzzle's offset from the characters location */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
 	FVector MuzzleOffset;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
+	float ShotRange = 20000.0f;
 
 	/** MappingContext */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
@@ -46,7 +45,7 @@ public:
 	bool AttachWeapon(APracticeRunCharacter* TargetCharacter);
 
 	/** Make the weapon Fire a Projectile */
-	UFUNCTION(BlueprintCallable, Category="Weapon")
+	UFUNCTION(BlueprintImplementableEvent, Category="Weapon")
 	void Fire();
 
 protected:
@@ -56,5 +55,6 @@ protected:
 
 private:
 	/** The Character holding this weapon*/
+	UPROPERTY(BlueprintReadOnly, meta = (AllowPrivateAccess = "true"))
 	APracticeRunCharacter* Character;
 };
