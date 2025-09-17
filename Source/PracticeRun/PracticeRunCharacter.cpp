@@ -10,6 +10,8 @@
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
 #include "Engine/LocalPlayer.h"
+#include "GameFramework/CharacterMovementComponent.h"
+#include "GameFramework/PawnMovementComponent.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
@@ -42,6 +44,7 @@ void APracticeRunCharacter::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+	GetCharacterMovement()->MaxWalkSpeed =  800.0f;
 }
 
 //////////////////////////////////////////////////////////////////////////// Input
@@ -60,6 +63,8 @@ void APracticeRunCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInp
 
 		// Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &APracticeRunCharacter::Look);
+		EnhancedInputComponent->BindAction(SprintAction,ETriggerEvent::Started,this,&APracticeRunCharacter::SprintHeld);
+		EnhancedInputComponent->BindAction(SprintAction,ETriggerEvent::Completed,this,&APracticeRunCharacter::SprintReleased);
 	}
 	else
 	{
@@ -92,4 +97,15 @@ void APracticeRunCharacter::Look(const FInputActionValue& Value)
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
+}
+
+void APracticeRunCharacter::SprintHeld()
+{
+	
+	GetCharacterMovement()->MaxWalkSpeed =  1200.0f;
+}
+
+void APracticeRunCharacter::SprintReleased()
+{
+	GetCharacterMovement()->MaxWalkSpeed =  800.0f;
 }

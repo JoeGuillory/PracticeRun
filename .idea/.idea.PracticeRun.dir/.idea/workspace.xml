@@ -8,21 +8,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd5cbc5-8073-4506-858e-93dc5d77d015" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_PickUp_Rifle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/BP_WeaponComponent.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/WBP_HUD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/WBP_Points.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Blueprints/WPB_Crosshair.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Input/MobileControls.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Maps/FirstPersonMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Maps/FirstPersonMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetActor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8K/0OLPBOSZCPU1X7E3PCLCGF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeRun.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeRun.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FirstPerson/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FirstPerson/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FirstPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_StartTrigger.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_StartTrigger.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetCoursePlayerState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetCoursePlayerState.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_HUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WPB_Timer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WPB_Timer.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/1/BS/D606AB9NMH0YZ53Z05LK9A.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/1/BS/D606AB9NMH0YZ53Z05LK9A.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/1/DW/TX7HJHLJIN81IXCLI4FGR6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/1/DW/TX7HJHLJIN81IXCLI4FGR6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/2/CP/AP89KOVPDOW455C4G3EZ8Q.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/2/CP/AP89KOVPDOW455C4G3EZ8Q.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/LU/5FYW5RI2SA0Q4FBRT0CWUH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/LU/5FYW5RI2SA0Q4FBRT0CWUH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/TO/DG7L1QP0C7GH4NTZOLWK97.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/TO/DG7L1QP0C7GH4NTZOLWK97.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/ZP/NVKDN69B08NHLE7VU09JV3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/3/ZP/NVKDN69B08NHLE7VU09JV3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/4/JI/71NSHE1W8OFJJR1ZMM13W1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/4/JI/71NSHE1W8OFJJR1ZMM13W1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/4/O4/J3SOX97JZEOEDVJ0DQWGSF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/4/O4/J3SOX97JZEOEDVJ0DQWGSF.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/3W/8A9DUCKXN8JQA1P6HC3777.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/3W/8A9DUCKXN8JQA1P6HC3777.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/KB/RUBUE00GF3TB2N54CMPW66.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/KB/RUBUE00GF3TB2N54CMPW66.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/NN/SXTZOFO78B6JTAAXGPGHYT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/5/NN/SXTZOFO78B6JTAAXGPGHYT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/1B/I0HFKDNQA1BX35BWMY3MDA.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/1B/I0HFKDNQA1BX35BWMY3MDA.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/3C/PENVBISKT8VL8N96W4H6RP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/3C/PENVBISKT8VL8N96W4H6RP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/H2/T42QDVTLRPT8NGHH0YDB4F.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/6/H2/T42QDVTLRPT8NGHH0YDB4F.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/4L/LX53M2FOC2Y3AOVGS63KTG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/4L/LX53M2FOC2Y3AOVGS63KTG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/9G/9E19D43P2B3IRHJJTA58WP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/9G/9E19D43P2B3IRHJJTA58WP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/Y5/S7OURCD8AXP66YO3G14PKJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/7/Y5/S7OURCD8AXP66YO3G14PKJ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/1R/A2B4MV2BJ3SL7GZGUQS20L.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/1R/A2B4MV2BJ3SL7GZGUQS20L.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/8W/6WPJRE7YJ1VW4JLMXJNEDJ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/8W/6WPJRE7YJ1VW4JLMXJNEDJ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/VL/JQ50RAOCNC31UX2FZM0BMI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/8/VL/JQ50RAOCNC31UX2FZM0BMI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/9/1N/HXDGOM0O0I90K1N2AXIS4S.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/9/1N/HXDGOM0O0I90K1N2AXIS4S.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/9/V1/47NTI6K2F3SS4BSHJ9P94Z.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/9/V1/47NTI6K2F3SS4BSHJ9P94Z.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/A/5C/TODBQDGZ5YTPDAB3VOWMQC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/A/5C/TODBQDGZ5YTPDAB3VOWMQC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/9K/4BRMJPAK7GFCYH3MHMQUA0.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/9K/4BRMJPAK7GFCYH3MHMQUA0.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/HA/B6IMNSJBK0ME4FAJABQ4VC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/HA/B6IMNSJBK0ME4FAJABQ4VC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/PX/1FWTYT1N6LLYIYSCWF56IY.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/B/PX/1FWTYT1N6LLYIYSCWF56IY.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/C/99/BX6YLGF9B0TQQADGOD8G6W.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/C/99/BX6YLGF9B0TQQADGOD8G6W.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/C/K6/3HNRBEDW3PJ5A9DMFTW9CZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/C/K6/3HNRBEDW3PJ5A9DMFTW9CZ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/53/2HAQ3VD1QRTVK07Z720IXV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/53/2HAQ3VD1QRTVK07Z720IXV.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/8Q/3RT894UHHMUUGDZXEYNL76.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/8Q/3RT894UHHMUUGDZXEYNL76.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/BK/D77N0Z4QXZO3UI8435XB38.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/BK/D77N0Z4QXZO3UI8435XB38.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/FA/IXDKY5R902UBQP0B7KR1K5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/FA/IXDKY5R902UBQP0B7KR1K5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/D/TD/JTCZE2TUZXOGFTCXJ7IK84.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/E/EN/1KV0XPRBKKXG2R2ZB7WKDG.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/E/EN/1KV0XPRBKKXG2R2ZB7WKDG.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/E/SO/0HDQXI66F3OBYFP8V8TNOD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/PracticeRun/Levels/TargetCourse/E/SO/0HDQXI66F3OBYFP8V8TNOD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PracticeRun/PracticeRunCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PracticeRun/PracticeRunCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PracticeRun/PracticeRunCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PracticeRun/PracticeRunCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,42 +64,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Pawn.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="32ZgC5kqTE2JfXsVK6OX3jwVIfg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Uproject.PracticeRun.executor": "Run",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Uproject.PracticeRun.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PracticeRun" type="Uproject" factoryName="rider.uproject">
       <configuration_1 setup="1">
         <option name="CONFIGURATION" value="DebugGame Editor" />
         <option name="PLATFORM" value="Win64" />
         <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
-        <option name="EXECUTABLE_PATH" value="E:/Games/Epic Games/UE_5.4/Engine/Binaries/Win64/UnrealEditor-Win64-DebugGame.exe" />
-        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Dev\Unreal Projects\PracticeRun\PracticeRun.uproject&quot;" />
+        <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.4/Engine/Binaries/Win64/UnrealEditor-Win64-DebugGame.exe" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Dev\PracticeRun\PracticeRun.uproject&quot;" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="E:\Games\Epic Games\UE_5.4" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.4" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="1" />
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
@@ -83,7 +115,7 @@
         <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/Binaries/Win64/PracticeRun-Win64-DebugGame.exe" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="E:\Games\Epic Games\UE_5.4" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.4" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="1" />
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
@@ -93,10 +125,10 @@
         <option name="CONFIGURATION" value="Development Editor" />
         <option name="PLATFORM" value="Win64" />
         <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
-        <option name="EXECUTABLE_PATH" value="E:/Games/Epic Games/UE_5.4/Engine/Binaries/Win64/UnrealEditor.exe" />
-        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Dev\Unreal Projects\PracticeRun\PracticeRun.uproject&quot;" />
+        <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.4/Engine/Binaries/Win64/UnrealEditor.exe" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Dev\PracticeRun\PracticeRun.uproject&quot;" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="E:\Games\Epic Games\UE_5.4" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.4" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="1" />
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
@@ -109,7 +141,7 @@
         <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/Binaries/Win64/PracticeRun.exe" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="E:\Games\Epic Games\UE_5.4" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.4" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="1" />
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
@@ -122,7 +154,7 @@
         <option name="EXECUTABLE_PATH" value="$PROJECT_DIR$/Binaries/Win64/PracticeRun-Win64-Shipping.exe" />
         <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
         <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
-        <option name="WORKING_DIRECTORY" value="E:\Games\Epic Games\UE_5.4" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.4" />
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="1" />
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
@@ -131,6 +163,14 @@
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/PracticeRun.uproject" />
       <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/PracticeRun.uproject" />
       <option name="AUTO_SELECT_PRIORITY" value="10010" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Uproject" factoryName="rider.uproject">
+      <option name="DEFAULT_PROJECT_PATH" value="" />
+      <option name="PROJECT_FILE_PATH" value="" />
+      <option name="AUTO_SELECT_PRIORITY" value="0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -144,6 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757633378467</updated>
       <workItem from="1757633381362" duration="2047000" />
+      <workItem from="1758141242860" duration="2801000" />
     </task>
     <servers />
   </component>
