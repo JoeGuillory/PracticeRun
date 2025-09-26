@@ -9,11 +9,17 @@
   <component name="ChangeListManager">
     <list default="true" id="fbd5cbc5-8073-4506-858e-93dc5d77d015" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PracticeRun.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PracticeRun.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FinishTriggerBox.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FinishTriggerBox.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FirstPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_FirstPersonCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_PickUp_Rifle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_PickUp_Rifle.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_SaveGame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_SaveGame.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetCoursePlayerState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_TargetCoursePlayerState.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_WeaponComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/BP_WeaponComponent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/RunDataStruct.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/RunDataStruct.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_HUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_RunEntry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_RunEntry.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_RunList.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Blueprints/WBP_RunList.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PracticeRun/Sprites/button_square_header_blade_square_screws.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PracticeRun/Sprites/button_square_header_blade_square_screws.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +149,8 @@
       <workItem from="1758294169621" duration="909000" />
       <workItem from="1758670982980" duration="1342000" />
       <workItem from="1758737592988" duration="2340000" />
+      <workItem from="1758835849287" duration="646000" />
+      <workItem from="1758920934201" duration="1164000" />
     </task>
     <servers />
   </component>
