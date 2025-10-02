@@ -39,6 +39,9 @@ class APracticeRunCharacter : public ACharacter
 	
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
 	UInputAction* SprintAction;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category=Input, meta=(AllowPrivateAccess = "true"))
+	UInputAction* RestartAction;
 	
 public:
 	APracticeRunCharacter();
@@ -63,7 +66,7 @@ protected:
 	
 	void SprintHeld();
 	void SprintReleased();
-
+    void RestartLevel();
 protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
